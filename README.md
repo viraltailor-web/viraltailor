@@ -54,3 +54,9 @@ This repository showcases my dual expertise as a **WordPress Engineer** and **SQ
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/viraltailor-web/viraltailor.git](https://github.com/viraltailor-web/viraltailor.git)
+
+
+[🚀 View my Technical Case Study & Code Snippets here](https://github.com/viraltailor-web/CASE_STUDY.md)
+
+
+
