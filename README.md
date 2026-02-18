@@ -2,7 +2,7 @@
 # Hi, I’m [Viral Tailor] 👋
 ### WordPress Developer | Gutenberg & Performance Specialist
 
-- 🌍 Based in India | Open to Remote roles in USA/Canada
+- 🌍 Based in India | Open to Remote roles in USA/Canada/India
 - 🚀 Expert in **Custom Theme Development** & **WCAG Accessibility**
 - 🛠️ Currently building high-performance solutions for global clients
 
