@@ -59,4 +59,25 @@ This repository showcases my dual expertise as a **WordPress Engineer** and **SQ
 [🚀 View my Technical Case Study & Code Snippets here](https://github.com/viraltailor-web/CASE_STUDY.md)
 
 
+# 🚀 Smart Product Master Pro (v35.0)
+
+A high-performance WordPress plugin featuring an AJAX-powered product search gallery with a 4-column responsive grid.
+
+### 🔗 Live Demo & Portfolio
+* **Live Site:** [http://practical.yoursmarthost.net/viraltailor/product-search/](http://practical.yoursmarthost.net/viraltailor/product-search/)
+* **Database View (Internal):** Accessible via the `product_summary` view in phpMyAdmin.
+## 📸 Project Evidence
+
+### WordPress Plugin Status (v35.0)
+![Active Plugin](plugin-active.jpg)
+
+### Database SQL View (product_summary)
+![SQL Results](database-view.jpg)
+---
+
+### 🛠️ Key Technical Features
+* **AJAX Engine:** Real-time filtering without page reloads.
+* **WP_Query Logic:** Custom metadata filtering for Price and Rating.
+* **Automated Seeding:** Script-based generation of 15 unique products.
+* **CSS Architecture:** Responsive 4-column layout with consistent UI elements.
 
